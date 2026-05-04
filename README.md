@@ -20,8 +20,3 @@ Website ini saya buat sebagai **portofolio perjalanan profesional** sekaligus me
 ![Preview Website](images/preview.png)
 
 ---
-
-## 📂 Cara Menjalankan
-1. Clone repository ini
-   ```bash
-   git clone https://github.com/jackmong/nama-repo.git
